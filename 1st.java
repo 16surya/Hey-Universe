@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class newone
 {
-   public static void main(String args[])
+   public static void main(String bargs[])
      {
         int a, b;
         newone n1 = new newone();
